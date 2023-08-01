@@ -1,0 +1,19 @@
+/* Add your preferred CSS styling here, or link to an external CSS file */
+/* For demonstration purposes, I'm only including essential styles */
+/* Adjust as needed */
+
+.container {
+  width: 100%;
+  max-width: 470px;
+}
+
+.slider-container {
+  width: 100%;
+  overflow-x: scroll;
+  display: flex;
+  scroll-behavior: smooth;
+}
+
+.grid {
+  display: flex;
+}
