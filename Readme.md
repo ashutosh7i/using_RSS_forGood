@@ -1,4 +1,3 @@
-sit tight, lots of interesting things ahead ✅; let's begin-
 
 ### **Introduction to RSS Feed** 📰
 
@@ -7,8 +6,7 @@ RSS (_Rich Site Summary or Really Simple Syndication_) is a standard format used
 RSS feeds are usually represented in XML (eXtensible Markup Language) format, which is a human-readable and machine-readable markup language (similar to HTML).XML provides a hierarchical structure to organize data, making it ideal for representing various types of information.
 
 ### **How RSS Feed Works** ?🔄
-
-![](https://twistarticle.com/wp-content/uploads/2019/08/What-Is-RSS-Feed-And-How-Does-It-Work-For-News-Update.jpg align="center")
+![](https://twistarticle.com/wp-content/uploads/2019/08/What-Is-RSS-Feed-And-How-Does-It-Work-For-News-Update.jpg)
 
 Imagine your favourite blog site, "[**blog.ashutosh7i.dev**](https://blog.ashutosh7i.dev)**😁**", constantly churning out captivating articles. With **_RSS_**, this blog site creates a summarized version of each article, along with essential details like the title, link, and cover image. These summarized versions are packed into an XML file known as the RSS feed. It's like a scroll of enchantment, holding all the latest and greatest blog updates in one place.
 
@@ -18,13 +16,13 @@ Now, whenever a new article is published, the RSS feed gets updated automaticall
 
 (click this to see an RSS feed- [blog.ashutosh7i.dev/rss.xml](https://blog.ashutosh7i.dev/rss.xml))
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690882693390/d0bc75c6-9b69-4bd1-b9b6-c626d6daca2e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690882693390/d0bc75c6-9b69-4bd1-b9b6-c626d6daca2e.png)
 
 ### **🌟Now Comes the "I have an Idea🤩!" Moment** 💡
 
 Here's where my lightbulb moment happened💡! As a web developer itching to create something dynamic and exciting for my users, I stumbled upon the incredible power of RSS feeds.
 
-![](https://media.giphy.com/media/UpvAgsFsw0M02f66Ra/giphy.gif align="center")
+![](https://media.giphy.com/media/UpvAgsFsw0M02f66Ra/giphy.gif)
 
 **_"Why not use this fantastic tech to my advantage and create a dynamic component?"_** I thought to myself. And let me tell you, the possibilities were endless🤩🚀!
 
@@ -50,11 +48,12 @@ also on the latest blog, it shows "Latest" too😁;
 
 here is what I created-
 
-%[https://codepen.io/ashutosh7i/pen/VwVqrZP]
+Codepen- https://codepen.io/ashutosh7i/pen/VwVqrZP
+
 
 so theoretically the thing was complete-
 
-![](https://31.media.tumblr.com/tumblr_mcca8gOjgy1qi5jk5o1_500.gif align="center")
+![](https://31.media.tumblr.com/tumblr_mcca8gOjgy1qi5jk5o1_500.gif)
 
 { i too thought this initially😅;; Ever heard of CORS?? I did🥲🥹it was such a P.I.T.A resolving it, I had to create a _reverse proxy_ for this, if ever you encounter a CORS error, read this Blog(upcoming) for a solution💖✅}
 
@@ -74,6 +73,6 @@ The usage of RSS feeds opens up numerous possibilities:
 
 In a rapidly evolving world, these timeless tools remain a source of inspiration, reminding me of the enduring power of simplicity and the beauty of a well-crafted backend. 💙🔧Happy coding! 🚀✨
 
-![](https://media.giphy.com/media/l44QePXW2Tf2swCru/giphy.gif align="center")
+![](https://media.giphy.com/media/l44QePXW2Tf2swCru/giphy.gif)
 
 Thank you for reading this far, 💙🔧Happy coding! 🚀✨
